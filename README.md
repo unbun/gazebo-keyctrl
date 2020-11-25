@@ -16,6 +16,8 @@ The command keys are as setup as following:
 This requires [Gazebo](http://gazebosim.org/) and is intended to work on a
 (non-virtualized) Ubuntu 20.04 or Debian 10 system.
 
+[Demo video](https://youtu.be/01n945GDnK4)
+
 # Build & Run
 
 Running `make` in the **brain** directory will create a `brain` executable. Spin up a gazebo world, and run the `brain` executable. If your cursor is focused in the terminal window that `brain` is running in, the brain program will read and interpret your keyboard commands.
