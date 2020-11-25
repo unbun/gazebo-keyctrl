@@ -1,0 +1,3 @@
+/home/unnas/cs4610/cs4610-final-project/brain/build/CMakeFiles/rebuild_cache.dir
+/home/unnas/cs4610/cs4610-final-project/brain/build/CMakeFiles/edit_cache.dir
+/home/unnas/cs4610/cs4610-final-project/brain/build/CMakeFiles/brain.dir
